@@ -1,0 +1,9 @@
+C:\Users\win\source\repos\tictactoe\tictactoe\bin\Release\tictactoe.exe.config
+C:\Users\win\source\repos\tictactoe\tictactoe\bin\Release\tictactoe.exe
+C:\Users\win\source\repos\tictactoe\tictactoe\bin\Release\tictactoe.pdb
+C:\Users\win\source\repos\tictactoe\tictactoe\obj\Release\tictactoe.csprojAssemblyReference.cache
+C:\Users\win\source\repos\tictactoe\tictactoe\obj\Release\tictactoe.Form1.resources
+C:\Users\win\source\repos\tictactoe\tictactoe\obj\Release\tictactoe.Properties.Resources.resources
+C:\Users\win\source\repos\tictactoe\tictactoe\obj\Release\tictactoe.csproj.GenerateResource.cache
+C:\Users\win\source\repos\tictactoe\tictactoe\obj\Release\tictactoe.exe
+C:\Users\win\source\repos\tictactoe\tictactoe\obj\Release\tictactoe.pdb

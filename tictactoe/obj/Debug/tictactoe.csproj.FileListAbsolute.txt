@@ -1,0 +1,28 @@
+C:\Users\win\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\win\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\win\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\win\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+C:\Users\win\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\win\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\win\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\win\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\win\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\win\Desktop\görsel programlama ödev\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\win\Desktop\görsel programlama ödev\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\win\Desktop\görsel programlama ödev\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\win\Desktop\görsel programlama ödev\tictactoe\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+C:\Users\win\Desktop\görsel programlama ödev\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\win\Desktop\görsel programlama ödev\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\win\Desktop\görsel programlama ödev\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\win\Desktop\görsel programlama ödev\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\win\Desktop\görsel programlama ödev\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
+D:\ŞEYMA\BELGE\görsel programlama ödev\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+D:\ŞEYMA\BELGE\görsel programlama ödev\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+D:\ŞEYMA\BELGE\görsel programlama ödev\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+D:\ŞEYMA\BELGE\görsel programlama ödev\tictactoe\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+D:\ŞEYMA\BELGE\görsel programlama ödev\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+D:\ŞEYMA\BELGE\görsel programlama ödev\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+D:\ŞEYMA\BELGE\görsel programlama ödev\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+D:\ŞEYMA\BELGE\görsel programlama ödev\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+D:\ŞEYMA\BELGE\görsel programlama ödev\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+D:\ŞEYMA\BELGE\görsel programlama ödev\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
